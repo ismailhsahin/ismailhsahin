@@ -24,7 +24,3 @@ Skills: C# / REACT / JavaScript / PYTHON
 
 
 ![İsmail Hakkı GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailhsahin&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailhsahin&layout=compact)](https://github.com/ismailhsahin/github-readme-stats)
-
-
