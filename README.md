@@ -14,12 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Merhaba 👋, Ben Mertcan YAMAN
+Merhaba 👋, Ben İsmail Hakkı ŞAHİN
 
 Sakarya Üniversitesinde 4. sınıf bilgisayar mühendisliği okuyorum.
 Web geliştirme, Bilgisayarlı görü ve Derin öğrenme üzerine çalışmalarım devam ediyor.
 
 Skills: C# / REACT / JavaScript / PYTHON
+
+
+<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=[https://www.linkedin.com/in/ismailhakk%C4%B1%C5%9Fahin/]" />
+
 
 
 
