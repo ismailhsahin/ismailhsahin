@@ -22,7 +22,7 @@ Web geliştirme, Bilgisayarlı görü ve Derin öğrenme üzerine çalışmalar�
 Skills: C# / REACT / JavaScript / PYTHON
 
 
-<a href=”https://www.linkedin.com/in/ismailhakk%C4%B1%C5%9Fahin/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+<a href=”https://www.linkedin.com/in/ismailhakk%C4%B1%C5%9Fahin"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
 
 
