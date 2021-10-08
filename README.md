@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Merhaba 👋, Ben Mertcan YAMAN
+
+Sakarya Üniversitesinde 4. sınıf bilgisayar mühendisliği okuyorum.
+Web geliştirme, Bilgisayarlı görü ve Derin öğrenme üzerine çalışmalarım devam ediyor.
+
+Skills: C# / REACT / JavaScript / PYTHON
+
+
 
 ![İsmail Hakkı GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailhsahin&show_icons=true&theme=radical)
 
