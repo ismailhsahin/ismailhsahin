@@ -22,7 +22,7 @@ Web geliştirme, Bilgisayarlı görü ve Derin öğrenme üzerine çalışmalar�
 Skills: C# / REACT / JavaScript / PYTHON
 
 
-<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=[https://www.linkedin.com/in/ismailhakk%C4%B1%C5%9Fahin/]" />
+<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/user?username=İsmail Hakkı Şahin" />
 
 
 
