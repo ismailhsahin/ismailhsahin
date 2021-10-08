@@ -1,4 +1,4 @@
-### Hi there 👋
+### Merhaba 👋, Ben İsmail Hakkı ŞAHİN
 
 <!--
 **ismailhsahin/ismailhsahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Merhaba 👋, Ben İsmail Hakkı ŞAHİN
-
 Sakarya Üniversitesinde 4. sınıf bilgisayar mühendisliği okuyorum.
 Web geliştirme, Bilgisayarlı görü ve Derin öğrenme üzerine çalışmalarım devam ediyor.
 
